@@ -34,5 +34,7 @@
 <h4 align="center">Statistics</h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CsokiHUN&hide=html,css&layout=compact&theme=synthwave" />
+</p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=synthwave" />
 </p>
