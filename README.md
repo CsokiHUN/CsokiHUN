@@ -32,7 +32,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 <h4 align="center">Statistics</h4>
-<p align="center">
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CsokiHUN&hide=html,css&layout=compact&theme=synthwave)
-![Stats](https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=synthwave)
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CsokiHUN&hide=html,css&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=synthwave" />
