@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Csoki<img src="https://i.giphy.com/media/yItShXVgWznWeNUDSE/giphy.webp" width="40" height="40"/></h1>
+<h1 align="center">Hi 👋, I'm Csoki<img src="https://i.giphy.com/media/yItShXVgWznWeNUDSE/giphy.webp" width="50" height="50"/></h1>
 <h3 align="center">
     Junior developer from hungary. I interest the web technologies and game development.
 </h3>
