@@ -40,3 +40,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=synthwave" />
 </p>
+<h4 align="center">Discord Status</h4>
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-1/313698444822708226.png" />
+</p>
